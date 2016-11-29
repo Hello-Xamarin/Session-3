@@ -1,0 +1,4 @@
+msp_droid_1.MainActivity, msp_droid_1;md5a3e2a5ef4957177e2ed00d7e46c0772a.MainActivity
+msp_droid_1.MainActivity, msp_droid_1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a3e2a5ef4957177e2ed00d7e46c0772a.MainActivity
+msp_droid_1.MainActivity;md5a3e2a5ef4957177e2ed00d7e46c0772a.MainActivity
+msp_droid_1.MainActivity;md5a3e2a5ef4957177e2ed00d7e46c0772a.MainActivity

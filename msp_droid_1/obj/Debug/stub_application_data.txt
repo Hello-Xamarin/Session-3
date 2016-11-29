@@ -1,0 +1,2 @@
+android.app.Application
+msp_droid_1.msp_droid_1
